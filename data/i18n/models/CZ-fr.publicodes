@@ -1,0 +1,10 @@
+params:
+  code: CZ
+  nom: République tchèque
+  gentilé: tchèque
+
+commun . intensité électricité:
+  titre: Intensité carbone du mix électrique tchèque
+  formule: 0.543
+  note: |
+    [Electricity Map](https://app.electricitymaps.com/map) vue 5 ans, 2022
