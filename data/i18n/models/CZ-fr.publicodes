@@ -13,6 +13,32 @@ transport . avion . court courrier . heures de vol:
     🚫✈️: 0
     Prague ⇄ Vienne: 1
     Prague ⇄ Berlin: 2
-    Prague ⇄ Budapest: 2
     Prague ⇄ Paris: 3
-    Prague ⇄ Varsovie: 3
+    Prague ⇄ Londres: 4
+transport . avion . moyen courrier . heures de vol:
+  suggestions:
+    🚫✈️: 0
+    Prague ⇄ Istanbul: 5
+    Prague ⇄ Madrid: 6
+    Prague ⇄ Le Caire: 7
+    Prague ⇄ Dubaï: 12
+transport . avion . long courrier . heures de vol:
+  suggestions:
+    🚫✈️: 0
+    Prague ⇄ New York: 20
+    Prague ⇄ Tokyo: 30
+    Prague ⇄ Sydney: 40
+
+# Durées obtenues sur https://www.prg.aero/letove-trasy-rad
+
+transport . train . km:
+  suggestions:
+    traversée d'une région: 50
+    Prague ⇄ Brno: 500
+    Prague ⇄ Berlin: 750
+    Prague ⇄ Bratislava: 800
+    Prague ⇄ Budapest: 1200
+    💳 grand voyageur: 10000
+    💳 grand voyageur plus ultra: 25000
+
+# Distances obtenues sur https://www.cd.cz/en/default.htm
